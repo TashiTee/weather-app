@@ -7,6 +7,9 @@ It uses Google Geocoding API to fetch Geo-coordinates of a city and the Dark Sky
 
 Hosted at: https://tashitee.github.io/weather-app/
 
+To temporarily unlock access to the demo, you must enable CORS Anywhere to deal with cross-origin requests.
+https://cors-anywhere.herokuapp.com/corsdemo
+
 ## Installation
 If you want to run this locally
 ```bash
